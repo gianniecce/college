@@ -1,10 +1,10 @@
 # Site settings
 title: The mismeasure of things
-email: you@example.com
+email: les_pas_perdus@example.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-baseurl: "/the-mismeasure-of-things/"
-url:  "http://giacomovagni.github.io"
+baseurl: "/college/"
+url:  "http://gianniecce.github.io"
 twitter_username: giacomoecce
 github_username:  giacomovagni
 
