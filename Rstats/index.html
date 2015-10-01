@@ -1,0 +1,18 @@
+---
+layout: page
+title: rstats
+---
+
+<ul>
+    {% for post in site.categories.rstats %}
+    
+    <li>
+        {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    
+    {% endfor %}
+</ul>
+
+
+    
+    
