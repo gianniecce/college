@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Books"
+categories: [toread, books]
+tags: [social capial, putnam]
+---
+
+```{r, warning=FALSE, echo=FALSE}
+library(knitr)
+books = read.csv('/Users/giacomovagni/site/college/_data/books.csv', header = T)
+```
+
+```{r, results='asis', echo=FALSE}
+books$Title = toupper(books$Title)
+books = books[sort(books$Author), ] 
+kable(books)
+```
+
+
+
