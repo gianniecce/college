@@ -9,6 +9,9 @@ categories: [books, social capital]
 
 # Chapter 6 - Informal, social connections 
 
+1980 - 1993 total numbers of bowlers + 10% but bowling league down by 40%. 
+
+Bowling league trend - follows the trends in other forms of social capital. Steady growth from beginning of century (exception Depression and WWII), explosive growth btw 1945-1965, stagnation 1970s, then plunge over last two decades (p.112). 
 
 >We know our neighbors less well, and we see old friends less often. In short, it is not merely "do good" civic activities that engage us less, but also informal connecting. (p.115) 
 
